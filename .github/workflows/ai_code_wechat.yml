@@ -1,4 +1,4 @@
-name: AI Code Daily WeChat
+name: AI Code Daily Note Source
 
 on:
   schedule:
@@ -6,29 +6,23 @@ on:
   workflow_dispatch:
 
 jobs:
-  send:
+  generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Build digest and send via WxPusher
-        env:
-          WXPUSHER_APP_TOKEN: ${{ secrets.WXPUSHER_APP_TOKEN }}
-          WXPUSHER_UID: ${{ secrets.WXPUSHER_UID }}
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Build digest markdown files
         run: |
-          python -m pip -q install requests feedparser
+          python -m pip -q install feedparser
           python - <<'PY'
           import datetime
-          import os
-          import requests
+          from pathlib import Path
           import feedparser
-
-          app_token = os.environ.get("WXPUSHER_APP_TOKEN", "").strip()
-          raw_uids = os.environ.get("WXPUSHER_UID", "").strip()
-          if not app_token or not raw_uids:
-              raise SystemExit("Missing WXPUSHER_APP_TOKEN or WXPUSHER_UID")
-
-          uids = [u.strip() for u in raw_uids.split(",") if u.strip()]
-          if not uids:
-              raise SystemExit("WXPUSHER_UID is empty after parsing")
 
           feeds = [
               ("OpenAI News", "https://openai.com/news/rss.xml"),
@@ -45,7 +39,9 @@ jobs:
               parsed = feedparser.parse(url)
               return parsed.entries[:limit]
 
-          title = f"AI Code 每日快报 {datetime.date.today().isoformat()}"
+          now = datetime.datetime.utcnow() + datetime.timedelta(hours=8)
+          date_str = now.date().isoformat()
+          title = f"AI Code 每日快报 {date_str}"
           lines = [f"# {title}"]
 
           for name, url in feeds:
@@ -62,20 +58,24 @@ jobs:
                   else:
                       lines.append(f"- {item_title}")
 
-          content = "\n".join(lines)
-          payload = {
-              "appToken": app_token,
-              "content": content,
-              "summary": title,
-              "contentType": 3,
-              "uids": uids,
-          }
+          lines.append(f"\n> generated_at_utc: {datetime.datetime.utcnow().isoformat()}Z")
+          content = "\n".join(lines) + "\n"
 
-          resp = requests.post(
-              "https://wxpusher.zjiecode.com/api/send/message",
-              json=payload,
-              timeout=30,
-          )
-          print(resp.status_code, resp.text)
-          resp.raise_for_status()
+          daily_dir = Path("daily")
+          daily_dir.mkdir(parents=True, exist_ok=True)
+          (daily_dir / f"{date_str}.md").write_text(content, encoding="utf-8")
+          (daily_dir / "latest.md").write_text(content, encoding="utf-8")
+          print(f"Wrote daily/{date_str}.md and daily/latest.md")
           PY
+
+      - name: Commit and push if changed
+        run: |
+          if [ -z "$(git status --porcelain -- daily)" ]; then
+            echo "No changes in daily files."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add daily
+          git commit -m "Update AI daily digest"
+          git push
