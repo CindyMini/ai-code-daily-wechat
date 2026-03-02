@@ -1,0 +1,81 @@
+name: AI Code Daily WeChat
+
+on:
+  schedule:
+    - cron: "7 1 * * *" # UTC 01:07 => Asia/Shanghai 09:07
+  workflow_dispatch:
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Build digest and send via WxPusher
+        env:
+          WXPUSHER_APP_TOKEN: ${{ secrets.WXPUSHER_APP_TOKEN }}
+          WXPUSHER_UID: ${{ secrets.WXPUSHER_UID }}
+        run: |
+          python -m pip -q install requests feedparser
+          python - <<'PY'
+          import datetime
+          import os
+          import requests
+          import feedparser
+
+          app_token = os.environ.get("WXPUSHER_APP_TOKEN", "").strip()
+          raw_uids = os.environ.get("WXPUSHER_UID", "").strip()
+          if not app_token or not raw_uids:
+              raise SystemExit("Missing WXPUSHER_APP_TOKEN or WXPUSHER_UID")
+
+          uids = [u.strip() for u in raw_uids.split(",") if u.strip()]
+          if not uids:
+              raise SystemExit("WXPUSHER_UID is empty after parsing")
+
+          feeds = [
+              ("OpenAI News", "https://openai.com/news/rss.xml"),
+              ("OpenAI API Changelog", "https://developers.openai.com/changelog/rss.xml"),
+              ("Anthropic News", "https://www.anthropic.com/news/rss"),
+              ("GitHub Copilot Changelog", "https://github.blog/changelog/label/copilot/feed/"),
+              ("Cursor Changelog", "https://www.cursor.com/changelog/rss.xml"),
+              ("Hacker News Newest", "https://hnrss.org/newest"),
+              ("LocalLLaMA New", "https://www.reddit.com/r/LocalLLaMA/new/.rss"),
+              ("Hugging Face Blog", "https://huggingface.co/blog/feed.xml"),
+          ]
+
+          def top_items(url: str, limit: int = 2):
+              parsed = feedparser.parse(url)
+              return parsed.entries[:limit]
+
+          title = f"AI Code 每日快报 {datetime.date.today().isoformat()}"
+          lines = [f"# {title}"]
+
+          for name, url in feeds:
+              lines.append(f"\n## {name}")
+              entries = top_items(url, 2)
+              if not entries:
+                  lines.append(f"- 暂无可用条目（{url}）")
+                  continue
+              for item in entries:
+                  item_title = (getattr(item, "title", "无标题") or "无标题").strip()
+                  link = getattr(item, "link", "")
+                  if link:
+                      lines.append(f"- [{item_title}]({link})")
+                  else:
+                      lines.append(f"- {item_title}")
+
+          content = "\n".join(lines)
+          payload = {
+              "appToken": app_token,
+              "content": content,
+              "summary": title,
+              "contentType": 3,
+              "uids": uids,
+          }
+
+          resp = requests.post(
+              "https://wxpusher.zjiecode.com/api/send/message",
+              json=payload,
+              timeout=30,
+          )
+          print(resp.status_code, resp.text)
+          resp.raise_for_status()
+          PY
