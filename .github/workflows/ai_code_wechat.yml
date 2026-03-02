@@ -35,28 +35,77 @@ jobs:
               ("Hugging Face Blog", "https://huggingface.co/blog/feed.xml"),
           ]
 
+          source_cn = {
+              "OpenAI News": "OpenAI 官方动态",
+              "OpenAI API Changelog": "OpenAI API 更新日志",
+              "Anthropic News": "Anthropic 官方动态",
+              "GitHub Copilot Changelog": "GitHub Copilot 更新日志",
+              "Cursor Changelog": "Cursor 更新日志",
+              "Hacker News Newest": "Hacker News 最新讨论",
+              "LocalLLaMA New": "LocalLLaMA 最新讨论",
+              "Hugging Face Blog": "Hugging Face 博客",
+          }
+
           def top_items(url: str, limit: int = 2):
               parsed = feedparser.parse(url)
               return parsed.entries[:limit]
 
+          def impact_read(name: str, title: str) -> str:
+              t = (title or "").lower()
+              if any(k in t for k in ["deprecat", "retire", "sunset", "remove", "end of life", "breaking"]):
+                  return "可能影响现有功能或接口，建议尽快做兼容性检查和迁移评估。"
+              if any(k in t for k in ["release", "changelog", "ga", "generally available", "launch", "new"]):
+                  if any(k in t for k in ["copilot", "cursor", "agent", "cli", "code", "coding"]):
+                      return "属于可落地的编码能力更新，可能直接提升写码、改码和排查效率。"
+                  return "属于版本能力更新，可作为近期技术选型和升级参考。"
+              if any(k in t for k in ["copilot", "cursor", "agent", "cli", "code", "coding"]):
+                  return "和 AI 编码效率直接相关，适合在当前项目小任务先试用。"
+              if any(k in t for k in ["paper", "research", "arxiv", "benchmark"]):
+                  return "偏研究和趋势信息，对日常交付影响较小，但有助于判断中长期方向。"
+              if name in ["Hacker News Newest", "LocalLLaMA New"]:
+                  return "这是社区热度信号，能帮助你快速判断哪些新工具值得关注。"
+              return "这是一般行业动态，建议按和你项目的相关性决定跟进深度。"
+
+          def try_read(name: str, title: str) -> str:
+              t = (title or "").lower()
+              if any(k in t for k in ["deprecat", "retire", "sunset", "remove", "end of life", "breaking"]):
+                  return "要（优先排查是否影响你当前流程）"
+              if any(k in t for k in ["copilot", "cursor", "agent", "cli", "code", "coding"]):
+                  return "要（先小范围试用，再决定是否纳入日常）"
+              if any(k in t for k in ["release", "changelog", "ga", "generally available", "launch", "new"]):
+                  return "要（关注是否有可直接用到的能力）"
+              if any(k in t for k in ["paper", "research", "arxiv", "benchmark"]):
+                  return "看情况（适合周末集中阅读）"
+              if name in ["Hacker News Newest", "LocalLLaMA New"]:
+                  return "看情况（先看热度和复现反馈）"
+              return "看情况（按项目相关性决定）"
+
           now = datetime.datetime.utcnow() + datetime.timedelta(hours=8)
           date_str = now.date().isoformat()
           title = f"AI Code 每日快报 {date_str}"
-          lines = [f"# {title}"]
+          lines = [
+              f"# {title}",
+              "",
+              "说明：每条包含新闻标题、链接和中文解读。",
+          ]
 
           for name, url in feeds:
-              lines.append(f"\n## {name}")
+              lines.append(f"\n## {source_cn.get(name, name)}")
               entries = top_items(url, 2)
               if not entries:
                   lines.append(f"- 暂无可用条目（{url}）")
                   continue
-              for item in entries:
+              for idx, item in enumerate(entries, start=1):
                   item_title = (getattr(item, "title", "无标题") or "无标题").strip()
                   link = getattr(item, "link", "")
+                  lines.append(f"\n### {idx}. {item_title}")
                   if link:
-                      lines.append(f"- [{item_title}]({link})")
+                      lines.append(f"- 链接：{link}")
                   else:
-                      lines.append(f"- {item_title}")
+                      lines.append("- 链接：无")
+                  lines.append(f"- 今天新变化：{source_cn.get(name, name)}发布了「{item_title}」。")
+                  lines.append(f"- 对我有啥用：{impact_read(name, item_title)}")
+                  lines.append(f"- 要不要试：{try_read(name, item_title)}")
 
           lines.append(f"\n> generated_at_utc: {datetime.datetime.utcnow().isoformat()}Z")
           content = "\n".join(lines) + "\n"
