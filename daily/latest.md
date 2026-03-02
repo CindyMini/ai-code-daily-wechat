@@ -19,15 +19,15 @@
 - [Cloud Agents with Computer Use](https://cursor.com/changelog/02-24-26)
 
 ## Hacker News Newest
-- [I watched 3 lead-gen tools launch on IH this week. So I killed my own product](https://multifyco.com)
-- [Math Notepad](https://mathnotepad.com)
+- [Count Your Blessings](https://pk.org/articles/better_than_kings.html)
+- [How to talk to anyone and why you should](https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should)
 
 ## LocalLLaMA New
-- [Revisiting MiniMax's article on their decision to drop hybrid attention now that we have 2 OS models with efficient long context attention DeepSeek V3.2 and Qwen3.5-397B-A17B](https://www.reddit.com/r/LocalLLaMA/comments/1rim2y2/revisiting_minimaxs_article_on_their_decision_to/)
-- [Jan-Code-4B: a small code-tuned model of Jan-v3](https://www.reddit.com/r/LocalLLaMA/comments/1rim0b3/jancode4b_a_small_codetuned_model_of_janv3/)
+- [The "Computer Use" Trend: How are you managing multi-user sandboxes for LLM Agents?](https://www.reddit.com/r/LocalLLaMA/comments/1rimgii/the_computer_use_trend_how_are_you_managing/)
+- [Discord Server for AI Services](https://www.reddit.com/r/LocalLLaMA/comments/1rimaub/discord_server_for_ai_services/)
 
 ## Hugging Face Blog
 - [Mixture of Experts (MoEs) in Transformers](https://huggingface.co/blog/moe-transformers)
 - [Deploying Open Source Vision Language Models (VLM) on Jetson](https://huggingface.co/blog/nvidia/cosmos-on-jetson)
 
-> generated_at_utc: 2026-03-02T07:10:40.222236Z
+> generated_at_utc: 2026-03-02T07:41:50.596084Z
