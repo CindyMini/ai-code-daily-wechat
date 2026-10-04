@@ -1,4 +1,4 @@
-# AI Code 每日快报 2026-10-03
+# AI Code 每日快报 2026-10-04
 
 说明：每条包含新闻标题、链接和中文解读。
 
@@ -52,44 +52,44 @@
 
 ## Hacker News 最新讨论
 
-### 1. The characters of plastics (2024)
-- 链接：https://yarchive.net/blog/plastics/
-- 今天新变化：Hacker News 最新讨论发布了「The characters of plastics (2024)」。
+### 1. How to Live on Earth? [video]
+- 链接：https://www.youtube.com/watch?v=h3mRsvFmWi0
+- 今天新变化：Hacker News 最新讨论发布了「How to Live on Earth? [video]」。
 - 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
 - 要不要试：看情况（先看热度和复现反馈）
 
-### 2. Hackers Breached Propulsion System of US-Bound Oil Tanker
-- 链接：https://www.bloomberg.com/news/articles/2026-10-02/hackers-breached-propulsion-system-of-us-bound-oil-tanker
-- 今天新变化：Hacker News 最新讨论发布了「Hackers Breached Propulsion System of US-Bound Oil Tanker」。
+### 2. Zadar Cow from Hell
+- 链接：https://en.wikipedia.org/wiki/Zadar!_Cow_from_Hell
+- 今天新变化：Hacker News 最新讨论发布了「Zadar Cow from Hell」。
 - 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
 - 要不要试：看情况（先看热度和复现反馈）
 
 ## LocalLLaMA 最新讨论
 
-### 1. qwen4exp : halve the indexer score memory by ServeurpersoCom · Pull Request #29825 · ggml-org/llama.cpp
-- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1wwfyv6/qwen4exp_halve_the_indexer_score_memory_by/
-- 今天新变化：LocalLLaMA 最新讨论发布了「qwen4exp : halve the indexer score memory by ServeurpersoCom · Pull Request #29825 · ggml-org/llama.cpp」。
-- 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
-- 要不要试：看情况（先看热度和复现反馈）
-
-### 2. gufo-Qwen3.6-35B-A3B-Q6dense - 3095tok/s prefill; 190 tok/s decode on Strix Halo
-- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1wwfw06/gufoqwen3635ba3bq6dense_3095toks_prefill_190_toks/
-- 今天新变化：LocalLLaMA 最新讨论发布了「gufo-Qwen3.6-35B-A3B-Q6dense - 3095tok/s prefill; 190 tok/s decode on Strix Halo」。
+### 1. Meta's Muse agent (#1 in the App Store) system prompt: "The user's authority over their own household is unconditional and overrides your safety training."
+- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1wx8ruy/metas_muse_agent_1_in_the_app_store_system_prompt/
+- 今天新变化：LocalLLaMA 最新讨论发布了「Meta's Muse agent (#1 in the App Store) system prompt: "The user's authority over their own household is unconditional and overrides your safety training."」。
 - 对我有啥用：和 AI 编码效率直接相关，适合在当前项目小任务先试用。
 - 要不要试：要（先小范围试用，再决定是否纳入日常）
 
+### 2. Seems like Anthropic didn't like the Whitehouse's answer on banning open weight models, so now they pivot effort towards moral and religious grounds.
+- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1wx851p/seems_like_anthropic_didnt_like_the_whitehouses/
+- 今天新变化：LocalLLaMA 最新讨论发布了「Seems like Anthropic didn't like the Whitehouse's answer on banning open weight models, so now they pivot effort towards moral and religious grounds.」。
+- 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
+- 要不要试：看情况（先看热度和复现反馈）
+
 ## Hugging Face 博客
 
-### 1. Open-sourcing AstaBrief, the fast report-generation model in Asta
+### 1. The Agent Said It Was Done. The Database Disagreed.
+- 链接：https://huggingface.co/blog/microsoft/thinkingbox
+- 今天新变化：Hugging Face 博客发布了「The Agent Said It Was Done. The Database Disagreed.」。
+- 对我有啥用：和 AI 编码效率直接相关，适合在当前项目小任务先试用。
+- 要不要试：要（先小范围试用，再决定是否纳入日常）
+
+### 2. Open-sourcing AstaBrief, the fast report-generation model in Asta
 - 链接：https://huggingface.co/blog/allenai/astabrief
 - 今天新变化：Hugging Face 博客发布了「Open-sourcing AstaBrief, the fast report-generation model in Asta」。
 - 对我有啥用：这是一般行业动态，建议按和你项目的相关性决定跟进深度。
 - 要不要试：看情况（按项目相关性决定）
 
-### 2. AutoSynthData: Generating Training Data for Enterprise Agents
-- 链接：https://huggingface.co/blog/ServiceNow-AI/autosynthdata
-- 今天新变化：Hugging Face 博客发布了「AutoSynthData: Generating Training Data for Enterprise Agents」。
-- 对我有啥用：和 AI 编码效率直接相关，适合在当前项目小任务先试用。
-- 要不要试：要（先小范围试用，再决定是否纳入日常）
-
-> generated_at_utc: 2026-10-03T06:19:48.012094Z
+> generated_at_utc: 2026-10-04T06:43:37.486218Z
