@@ -1,4 +1,4 @@
-# AI Code 每日快报 2026-10-04
+# AI Code 每日快报 2026-10-05
 
 说明：每条包含新闻标题、链接和中文解读。
 
@@ -52,31 +52,31 @@
 
 ## Hacker News 最新讨论
 
-### 1. How to Live on Earth? [video]
-- 链接：https://www.youtube.com/watch?v=h3mRsvFmWi0
-- 今天新变化：Hacker News 最新讨论发布了「How to Live on Earth? [video]」。
+### 1. Famous Darknet forum "Dread" hacked
+- 链接：https://darknetbible.info/news/2-weeks-3-exit-scams/
+- 今天新变化：Hacker News 最新讨论发布了「Famous Darknet forum "Dread" hacked」。
 - 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
 - 要不要试：看情况（先看热度和复现反馈）
 
-### 2. Zadar Cow from Hell
-- 链接：https://en.wikipedia.org/wiki/Zadar!_Cow_from_Hell
-- 今天新变化：Hacker News 最新讨论发布了「Zadar Cow from Hell」。
-- 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
-- 要不要试：看情况（先看热度和复现反馈）
+### 2. Researcher at Russian plague laboratory dies of 'unknown' infection
+- 链接：https://www.cnn.com/2026/10/04/europe/russia-laboratory-plague-accident-intl
+- 今天新变化：Hacker News 最新讨论发布了「Researcher at Russian plague laboratory dies of 'unknown' infection」。
+- 对我有啥用：偏研究和趋势信息，对日常交付影响较小，但有助于判断中长期方向。
+- 要不要试：看情况（适合周末集中阅读）
 
 ## LocalLLaMA 最新讨论
 
-### 1. Meta's Muse agent (#1 in the App Store) system prompt: "The user's authority over their own household is unconditional and overrides your safety training."
-- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1wx8ruy/metas_muse_agent_1_in_the_app_store_system_prompt/
-- 今天新变化：LocalLLaMA 最新讨论发布了「Meta's Muse agent (#1 in the App Store) system prompt: "The user's authority over their own household is unconditional and overrides your safety training."」。
-- 对我有啥用：和 AI 编码效率直接相关，适合在当前项目小任务先试用。
-- 要不要试：要（先小范围试用，再决定是否纳入日常）
-
-### 2. Seems like Anthropic didn't like the Whitehouse's answer on banning open weight models, so now they pivot effort towards moral and religious grounds.
-- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1wx851p/seems_like_anthropic_didnt_like_the_whitehouses/
-- 今天新变化：LocalLLaMA 最新讨论发布了「Seems like Anthropic didn't like the Whitehouse's answer on banning open weight models, so now they pivot effort towards moral and religious grounds.」。
+### 1. I got Qwen Flash Next Q4 running on a Mac Mini m5 64gb with ssd streaming
+- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1wy1o8a/i_got_qwen_flash_next_q4_running_on_a_mac_mini_m5/
+- 今天新变化：LocalLLaMA 最新讨论发布了「I got Qwen Flash Next Q4 running on a Mac Mini m5 64gb with ssd streaming」。
 - 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
 - 要不要试：看情况（先看热度和复现反馈）
+
+### 2. Reflection AI Is About to Release a US Open-Weight Model to Take On DeepSeek and Qwen
+- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1wy0jrc/reflection_ai_is_about_to_release_a_us_openweight/
+- 今天新变化：LocalLLaMA 最新讨论发布了「Reflection AI Is About to Release a US Open-Weight Model to Take On DeepSeek and Qwen」。
+- 对我有啥用：属于版本能力更新，可作为近期技术选型和升级参考。
+- 要不要试：要（关注是否有可直接用到的能力）
 
 ## Hugging Face 博客
 
@@ -92,4 +92,4 @@
 - 对我有啥用：这是一般行业动态，建议按和你项目的相关性决定跟进深度。
 - 要不要试：看情况（按项目相关性决定）
 
-> generated_at_utc: 2026-10-04T06:43:37.486218Z
+> generated_at_utc: 2026-10-05T06:49:16.985534Z
