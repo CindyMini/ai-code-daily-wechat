@@ -1,18 +1,18 @@
-# AI Code 每日快报 2026-10-05
+# AI Code 每日快报 2026-10-06
 
 说明：每条包含新闻标题、链接和中文解读。
 
 ## OpenAI 官方动态
 
-### 1. A model guide for the GPT-6 family
-- 链接：https://openai.com/index/practical-guide-building-gpt-6
-- 今天新变化：OpenAI 官方动态发布了「A model guide for the GPT-6 family」。
+### 1. Our approach to EU text provenance rules
+- 链接：https://openai.com/index/eu-text-provenance
+- 今天新变化：OpenAI 官方动态发布了「Our approach to EU text provenance rules」。
 - 对我有啥用：这是一般行业动态，建议按和你项目的相关性决定跟进深度。
 - 要不要试：看情况（按项目相关性决定）
 
-### 2. Chatham scales its capital markets expertise with OpenAI
-- 链接：https://openai.com/index/chatham-financial
-- 今天新变化：OpenAI 官方动态发布了「Chatham scales its capital markets expertise with OpenAI」。
+### 2. Building advertising for the way people use AI
+- 链接：https://openai.com/index/new-chatgpt-ads-format-and-measurement
+- 今天新变化：OpenAI 官方动态发布了「Building advertising for the way people use AI」。
 - 对我有啥用：这是一般行业动态，建议按和你项目的相关性决定跟进深度。
 - 要不要试：看情况（按项目相关性决定）
 
@@ -52,44 +52,44 @@
 
 ## Hacker News 最新讨论
 
-### 1. Famous Darknet forum "Dread" hacked
-- 链接：https://darknetbible.info/news/2-weeks-3-exit-scams/
-- 今天新变化：Hacker News 最新讨论发布了「Famous Darknet forum "Dread" hacked」。
+### 1. Europe is pouring billions into space. Can Glasgow's satellite industry keep up?
+- 链接：https://www.bbc.co.uk/news/articles/cm2kedyp348lo
+- 今天新变化：Hacker News 最新讨论发布了「Europe is pouring billions into space. Can Glasgow's satellite industry keep up?」。
 - 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
 - 要不要试：看情况（先看热度和复现反馈）
 
-### 2. Researcher at Russian plague laboratory dies of 'unknown' infection
-- 链接：https://www.cnn.com/2026/10/04/europe/russia-laboratory-plague-accident-intl
-- 今天新变化：Hacker News 最新讨论发布了「Researcher at Russian plague laboratory dies of 'unknown' infection」。
-- 对我有啥用：偏研究和趋势信息，对日常交付影响较小，但有助于判断中长期方向。
-- 要不要试：看情况（适合周末集中阅读）
+### 2. Show HN: Purify-edge, DOMPurify without jsdom that runs on Cloudflare Workers
+- 链接：https://github.com/anzal1/purify-edge
+- 今天新变化：Hacker News 最新讨论发布了「Show HN: Purify-edge, DOMPurify without jsdom that runs on Cloudflare Workers」。
+- 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
+- 要不要试：看情况（先看热度和复现反馈）
 
 ## LocalLLaMA 最新讨论
 
-### 1. I got Qwen Flash Next Q4 running on a Mac Mini m5 64gb with ssd streaming
-- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1wy1o8a/i_got_qwen_flash_next_q4_running_on_a_mac_mini_m5/
-- 今天新变化：LocalLLaMA 最新讨论发布了「I got Qwen Flash Next Q4 running on a Mac Mini m5 64gb with ssd streaming」。
+### 1. Domain Focused - Specialized models
+- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1wyvo4k/domain_focused_specialized_models/
+- 今天新变化：LocalLLaMA 最新讨论发布了「Domain Focused - Specialized models」。
 - 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
 - 要不要试：看情况（先看热度和复现反馈）
 
-### 2. Reflection AI Is About to Release a US Open-Weight Model to Take On DeepSeek and Qwen
-- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1wy0jrc/reflection_ai_is_about_to_release_a_us_openweight/
-- 今天新变化：LocalLLaMA 最新讨论发布了「Reflection AI Is About to Release a US Open-Weight Model to Take On DeepSeek and Qwen」。
-- 对我有啥用：属于版本能力更新，可作为近期技术选型和升级参考。
-- 要不要试：要（关注是否有可直接用到的能力）
+### 2. Gemma 4 26B-A4B and a 37 GB Qwen3.6 MoE running in a browser tab on a 24 GB Mac — experts streamed from disk, output matches llama.cpp
+- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1wyvo42/gemma_4_26ba4b_and_a_37_gb_qwen36_moe_running_in/
+- 今天新变化：LocalLLaMA 最新讨论发布了「Gemma 4 26B-A4B and a 37 GB Qwen3.6 MoE running in a browser tab on a 24 GB Mac — experts streamed from disk, output matches llama.cpp」。
+- 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
+- 要不要试：看情况（先看热度和复现反馈）
 
 ## Hugging Face 博客
 
-### 1. The Agent Said It Was Done. The Database Disagreed.
+### 1. Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance
+- 链接：https://huggingface.co/blog/tiiuae/falcon-emirati
+- 今天新变化：Hugging Face 博客发布了「Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance」。
+- 对我有啥用：这是一般行业动态，建议按和你项目的相关性决定跟进深度。
+- 要不要试：看情况（按项目相关性决定）
+
+### 2. The Agent Said It Was Done. The Database Disagreed.
 - 链接：https://huggingface.co/blog/microsoft/thinkingbox
 - 今天新变化：Hugging Face 博客发布了「The Agent Said It Was Done. The Database Disagreed.」。
 - 对我有啥用：和 AI 编码效率直接相关，适合在当前项目小任务先试用。
 - 要不要试：要（先小范围试用，再决定是否纳入日常）
 
-### 2. Open-sourcing AstaBrief, the fast report-generation model in Asta
-- 链接：https://huggingface.co/blog/allenai/astabrief
-- 今天新变化：Hugging Face 博客发布了「Open-sourcing AstaBrief, the fast report-generation model in Asta」。
-- 对我有啥用：这是一般行业动态，建议按和你项目的相关性决定跟进深度。
-- 要不要试：看情况（按项目相关性决定）
-
-> generated_at_utc: 2026-10-05T06:49:16.985534Z
+> generated_at_utc: 2026-10-06T07:26:54.856108Z
