@@ -1,4 +1,4 @@
-# AI Code 每日快报 2026-10-10
+# AI Code 每日快报 2026-10-11
 
 说明：每条包含新闻标题、链接和中文解读。
 
@@ -24,15 +24,15 @@
 
 ## GitHub Copilot 更新日志
 
-### 1. GitHub Copilot weekly releases — October 5
-- 链接：https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5
-- 今天新变化：GitHub Copilot 更新日志发布了「GitHub Copilot weekly releases — October 5」。
+### 1. New controls and chat improvements in Copilot for JetBrains
+- 链接：https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains
+- 今天新变化：GitHub Copilot 更新日志发布了「New controls and chat improvements in Copilot for JetBrains」。
 - 对我有啥用：属于可落地的编码能力更新，可能直接提升写码、改码和排查效率。
 - 要不要试：要（先小范围试用，再决定是否纳入日常）
 
-### 2. Copilot code review: New organization billing options and controls
-- 链接：https://github.blog/changelog/2026-10-08-copilot-code-review-new-organization-billing-options-and-controls
-- 今天新变化：GitHub Copilot 更新日志发布了「Copilot code review: New organization billing options and controls」。
+### 2. GitHub Copilot weekly releases — October 5
+- 链接：https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5
+- 今天新变化：GitHub Copilot 更新日志发布了「GitHub Copilot weekly releases — October 5」。
 - 对我有啥用：属于可落地的编码能力更新，可能直接提升写码、改码和排查效率。
 - 要不要试：要（先小范围试用，再决定是否纳入日常）
 
@@ -52,31 +52,31 @@
 
 ## Hacker News 最新讨论
 
-### 1. Japan protests Russia's extradition requests for ICC president and 8 other staff
-- 链接：https://mainichi.jp/english/articles/20261010/p2g/00m/0in/006000c
-- 今天新变化：Hacker News 最新讨论发布了「Japan protests Russia's extradition requests for ICC president and 8 other staff」。
-- 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
-- 要不要试：看情况（先看热度和复现反馈）
+### 1. MD5 Research Challenge
+- 链接：https://solveathome.org/projects/md5
+- 今天新变化：Hacker News 最新讨论发布了「MD5 Research Challenge」。
+- 对我有啥用：偏研究和趋势信息，对日常交付影响较小，但有助于判断中长期方向。
+- 要不要试：看情况（适合周末集中阅读）
 
-### 2. GitSwarm: Decentralized Compounding Inference
-- 链接：https://veds12.github.io/git-swarm/
-- 今天新变化：Hacker News 最新讨论发布了「GitSwarm: Decentralized Compounding Inference」。
+### 2. Replaced
+- 链接：https://ghuntley.com/replaced/
+- 今天新变化：Hacker News 最新讨论发布了「Replaced」。
 - 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
 - 要不要试：看情况（先看热度和复现反馈）
 
 ## LocalLLaMA 最新讨论
 
-### 1. microsoft doubles down on local ai with nvidia, but with a cost
-- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1x280nz/microsoft_doubles_down_on_local_ai_with_nvidia/
-- 今天新变化：LocalLLaMA 最新讨论发布了「microsoft doubles down on local ai with nvidia, but with a cost」。
+### 1. Qwen 3.8 27B Q5 vs Qwen 3.8 Next Q3_S for document analysis
+- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1x31ak8/qwen_38_27b_q5_vs_qwen_38_next_q3_s_for_document/
+- 今天新变化：LocalLLaMA 最新讨论发布了「Qwen 3.8 27B Q5 vs Qwen 3.8 Next Q3_S for document analysis」。
 - 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
 - 要不要试：看情况（先看热度和复现反馈）
 
-### 2. Qwen 3.6 35B A3B: 131K context + vision on 6GB VRAM
-- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1x27au9/qwen_36_35b_a3b_131k_context_vision_on_6gb_vram/
-- 今天新变化：LocalLLaMA 最新讨论发布了「Qwen 3.6 35B A3B: 131K context + vision on 6GB VRAM」。
-- 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
-- 要不要试：看情况（先看热度和复现反馈）
+### 2. [Research] Can a swarm of Jev catch a murderer?
+- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1x310fh/research_can_a_swarm_of_jev_catch_a_murderer/
+- 今天新变化：LocalLLaMA 最新讨论发布了「[Research] Can a swarm of Jev catch a murderer?」。
+- 对我有啥用：偏研究和趋势信息，对日常交付影响较小，但有助于判断中长期方向。
+- 要不要试：看情况（适合周末集中阅读）
 
 ## Hugging Face 博客
 
@@ -92,4 +92,4 @@
 - 对我有啥用：这是一般行业动态，建议按和你项目的相关性决定跟进深度。
 - 要不要试：看情况（按项目相关性决定）
 
-> generated_at_utc: 2026-10-10T06:54:47.505011Z
+> generated_at_utc: 2026-10-11T07:00:21.710280Z
