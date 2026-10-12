@@ -1,4 +1,4 @@
-# AI Code 每日快报 2026-10-11
+# AI Code 每日快报 2026-10-12
 
 说明：每条包含新闻标题、链接和中文解读。
 
@@ -52,31 +52,31 @@
 
 ## Hacker News 最新讨论
 
-### 1. MD5 Research Challenge
-- 链接：https://solveathome.org/projects/md5
-- 今天新变化：Hacker News 最新讨论发布了「MD5 Research Challenge」。
-- 对我有啥用：偏研究和趋势信息，对日常交付影响较小，但有助于判断中长期方向。
-- 要不要试：看情况（适合周末集中阅读）
+### 1. Chirality Explained Through Alice
+- 链接：https://medium.com/the-quantastic-journal/chirality-explained-through-alice-e5a4d43b25ea
+- 今天新变化：Hacker News 最新讨论发布了「Chirality Explained Through Alice」。
+- 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
+- 要不要试：看情况（先看热度和复现反馈）
 
-### 2. Replaced
-- 链接：https://ghuntley.com/replaced/
-- 今天新变化：Hacker News 最新讨论发布了「Replaced」。
+### 2. The Engineer to of Girlie Pipeline
+- 链接：https://alexine.rip/the-engineer-to-of-girlie-pipeline.html
+- 今天新变化：Hacker News 最新讨论发布了「The Engineer to of Girlie Pipeline」。
 - 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
 - 要不要试：看情况（先看热度和复现反馈）
 
 ## LocalLLaMA 最新讨论
 
-### 1. Qwen 3.8 27B Q5 vs Qwen 3.8 Next Q3_S for document analysis
-- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1x31ak8/qwen_38_27b_q5_vs_qwen_38_next_q3_s_for_document/
-- 今天新变化：LocalLLaMA 最新讨论发布了「Qwen 3.8 27B Q5 vs Qwen 3.8 Next Q3_S for document analysis」。
+### 1. Receipt scanner that runs a fine-tuned 0.8B vision model on the phone (free) - detailed cost tracking
+- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1x3u3y5/receipt_scanner_that_runs_a_finetuned_08b_vision/
+- 今天新变化：LocalLLaMA 最新讨论发布了「Receipt scanner that runs a fine-tuned 0.8B vision model on the phone (free) - detailed cost tracking」。
 - 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
 - 要不要试：看情况（先看热度和复现反馈）
 
-### 2. [Research] Can a swarm of Jev catch a murderer?
-- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1x310fh/research_can_a_swarm_of_jev_catch_a_murderer/
-- 今天新变化：LocalLLaMA 最新讨论发布了「[Research] Can a swarm of Jev catch a murderer?」。
-- 对我有啥用：偏研究和趋势信息，对日常交付影响较小，但有助于判断中长期方向。
-- 要不要试：看情况（适合周末集中阅读）
+### 2. Decision 3.0: open, multimodal decision models from 0.6B to 27B. Ranks #1 on both Jev Decision Index boards
+- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1x3th4p/decision_30_open_multimodal_decision_models_from/
+- 今天新变化：LocalLLaMA 最新讨论发布了「Decision 3.0: open, multimodal decision models from 0.6B to 27B. Ranks #1 on both Jev Decision Index boards」。
+- 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
+- 要不要试：看情况（先看热度和复现反馈）
 
 ## Hugging Face 博客
 
@@ -92,4 +92,4 @@
 - 对我有啥用：这是一般行业动态，建议按和你项目的相关性决定跟进深度。
 - 要不要试：看情况（按项目相关性决定）
 
-> generated_at_utc: 2026-10-11T07:00:21.710280Z
+> generated_at_utc: 2026-10-12T07:12:33.887035Z
