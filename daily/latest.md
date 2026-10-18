@@ -1,4 +1,4 @@
-# AI Code 每日快报 2026-10-17
+# AI Code 每日快报 2026-10-18
 
 说明：每条包含新闻标题、链接和中文解读。
 
@@ -10,9 +10,9 @@
 - 对我有啥用：这是一般行业动态，建议按和你项目的相关性决定跟进深度。
 - 要不要试：看情况（按项目相关性决定）
 
-### 2. Stack Overflow for Agents triples signups with ChatGPT plugin
-- 链接：https://openai.com/index/stack-overflow-chatgpt-plugin
-- 今天新变化：OpenAI 官方动态发布了「Stack Overflow for Agents triples signups with ChatGPT plugin」。
+### 2. Benefit Street Partners answers questions faster with Codex
+- 链接：https://openai.com/index/benefit-street-partners
+- 今天新变化：OpenAI 官方动态发布了「Benefit Street Partners answers questions faster with Codex」。
 - 对我有啥用：和 AI 编码效率直接相关，适合在当前项目小任务先试用。
 - 要不要试：要（先小范围试用，再决定是否纳入日常）
 
@@ -52,29 +52,29 @@
 
 ## Hacker News 最新讨论
 
-### 1. Maybe Some Hope for the Future
-- 链接：https://kadhirvelm.dev/blogs/maybe-some-hope
-- 今天新变化：Hacker News 最新讨论发布了「Maybe Some Hope for the Future」。
+### 1. Fast approximation algorithms for knapsack problems (1977)
+- 链接：https://ieeexplore.ieee.org/document/4567944
+- 今天新变化：Hacker News 最新讨论发布了「Fast approximation algorithms for knapsack problems (1977)」。
 - 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
 - 要不要试：看情况（先看热度和复现反馈）
 
-### 2. Archive of Our Own
-- 链接：https://archiveofourown.org/
-- 今天新变化：Hacker News 最新讨论发布了「Archive of Our Own」。
-- 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
-- 要不要试：看情况（先看热度和复现反馈）
+### 2. Dot factory – a spec to describe complex (agentic) workflows
+- 链接：https://redbeardlab.github.io/dotFactory/
+- 今天新变化：Hacker News 最新讨论发布了「Dot factory – a spec to describe complex (agentic) workflows」。
+- 对我有啥用：和 AI 编码效率直接相关，适合在当前项目小任务先试用。
+- 要不要试：要（先小范围试用，再决定是否纳入日常）
 
 ## LocalLLaMA 最新讨论
 
-### 1. My 14B judge did no better than the 8B. One prompt change took it from 3/14 to 10/14.
-- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1x81z6r/my_14b_judge_did_no_better_than_the_8b_one_prompt/
-- 今天新变化：LocalLLaMA 最新讨论发布了「My 14B judge did no better than the 8B. One prompt change took it from 3/14 to 10/14.」。
-- 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
-- 要不要试：看情况（先看热度和复现反馈）
+### 1. We all joke about our rigs being space heaters, so I had Qwen vibecode it
+- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1x8v97a/we_all_joke_about_our_rigs_being_space_heaters_so/
+- 今天新变化：LocalLLaMA 最新讨论发布了「We all joke about our rigs being space heaters, so I had Qwen vibecode it」。
+- 对我有啥用：和 AI 编码效率直接相关，适合在当前项目小任务先试用。
+- 要不要试：要（先小范围试用，再决定是否纳入日常）
 
-### 2. nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB-GGUF results on 16GB VRAM with llama.cpp, strata style tuning (IQ2_XSS Official Nvidia Quant)
-- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1x8104h/nvidianvidianemotron35bolt74ba9b24gbgguf_results/
-- 今天新变化：LocalLLaMA 最新讨论发布了「nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB-GGUF results on 16GB VRAM with llama.cpp, strata style tuning (IQ2_XSS Official Nvidia Quant)」。
+### 2. Ling 3.1 Flash (560B MoE) loaded across 4 DGX Sparks using llama.cpp RPC
+- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1x8v7cp/ling_31_flash_560b_moe_loaded_across_4_dgx_sparks/
+- 今天新变化：LocalLLaMA 最新讨论发布了「Ling 3.1 Flash (560B MoE) loaded across 4 DGX Sparks using llama.cpp RPC」。
 - 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
 - 要不要试：看情况（先看热度和复现反馈）
 
@@ -92,4 +92,4 @@
 - 对我有啥用：这是一般行业动态，建议按和你项目的相关性决定跟进深度。
 - 要不要试：看情况（按项目相关性决定）
 
-> generated_at_utc: 2026-10-17T05:28:25.709244Z
+> generated_at_utc: 2026-10-18T05:41:11.697118Z
