@@ -1,4 +1,4 @@
-# AI Code 每日快报 2026-10-18
+# AI Code 每日快报 2026-10-19
 
 说明：每条包含新闻标题、链接和中文解读。
 
@@ -52,29 +52,29 @@
 
 ## Hacker News 最新讨论
 
-### 1. Fast approximation algorithms for knapsack problems (1977)
-- 链接：https://ieeexplore.ieee.org/document/4567944
-- 今天新变化：Hacker News 最新讨论发布了「Fast approximation algorithms for knapsack problems (1977)」。
+### 1. Anthropic and the Changing Nature of Work
+- 链接：https://surfingcomplexity.blog/2026/10/18/anthropic-and-the-changing-nature-of-work/
+- 今天新变化：Hacker News 最新讨论发布了「Anthropic and the Changing Nature of Work」。
 - 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
 - 要不要试：看情况（先看热度和复现反馈）
 
-### 2. Dot factory – a spec to describe complex (agentic) workflows
-- 链接：https://redbeardlab.github.io/dotFactory/
-- 今天新变化：Hacker News 最新讨论发布了「Dot factory – a spec to describe complex (agentic) workflows」。
-- 对我有啥用：和 AI 编码效率直接相关，适合在当前项目小任务先试用。
-- 要不要试：要（先小范围试用，再决定是否纳入日常）
+### 2. Answering ASL questions: Argon leads a 21-question pilot
+- 链接：https://huggingface.co/datasets/salqadri/argon-asl-question-understanding-eval
+- 今天新变化：Hacker News 最新讨论发布了「Answering ASL questions: Argon leads a 21-question pilot」。
+- 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
+- 要不要试：看情况（先看热度和复现反馈）
 
 ## LocalLLaMA 最新讨论
 
-### 1. We all joke about our rigs being space heaters, so I had Qwen vibecode it
-- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1x8v97a/we_all_joke_about_our_rigs_being_space_heaters_so/
-- 今天新变化：LocalLLaMA 最新讨论发布了「We all joke about our rigs being space heaters, so I had Qwen vibecode it」。
-- 对我有啥用：和 AI 编码效率直接相关，适合在当前项目小任务先试用。
-- 要不要试：要（先小范围试用，再决定是否纳入日常）
+### 1. DeepSeek-V4.1-Flash-1017 on AA & Vals index
+- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1x9owju/deepseekv41flash1017_on_aa_vals_index/
+- 今天新变化：LocalLLaMA 最新讨论发布了「DeepSeek-V4.1-Flash-1017 on AA & Vals index」。
+- 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
+- 要不要试：看情况（先看热度和复现反馈）
 
-### 2. Ling 3.1 Flash (560B MoE) loaded across 4 DGX Sparks using llama.cpp RPC
-- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1x8v7cp/ling_31_flash_560b_moe_loaded_across_4_dgx_sparks/
-- 今天新变化：LocalLLaMA 最新讨论发布了「Ling 3.1 Flash (560B MoE) loaded across 4 DGX Sparks using llama.cpp RPC」。
+### 2. Has anyone else had a PSU drop out from tensor-parallel load oscillation rather than total wattage?
+- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1x9opnv/has_anyone_else_had_a_psu_drop_out_from/
+- 今天新变化：LocalLLaMA 最新讨论发布了「Has anyone else had a PSU drop out from tensor-parallel load oscillation rather than total wattage?」。
 - 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
 - 要不要试：看情况（先看热度和复现反馈）
 
@@ -92,4 +92,4 @@
 - 对我有啥用：这是一般行业动态，建议按和你项目的相关性决定跟进深度。
 - 要不要试：看情况（按项目相关性决定）
 
-> generated_at_utc: 2026-10-18T05:41:11.697118Z
+> generated_at_utc: 2026-10-19T05:57:49.351860Z
