@@ -1,18 +1,18 @@
-# AI Code 每日快报 2026-10-23
+# AI Code 每日快报 2026-10-24
 
 说明：每条包含新闻标题、链接和中文解读。
 
 ## OpenAI 官方动态
 
-### 1. Build more responsive apps with the Decisions API
-- 链接：https://openai.com/index/decisions-api
-- 今天新变化：OpenAI 官方动态发布了「Build more responsive apps with the Decisions API」。
+### 1. Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)
+- 链接：https://openai.com/index/scaling-storage-one-billion-users-part-two
+- 今天新变化：OpenAI 官方动态发布了「Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)」。
 - 对我有啥用：这是一般行业动态，建议按和你项目的相关性决定跟进深度。
 - 要不要试：看情况（按项目相关性决定）
 
-### 2. What FDE means at OpenAI
-- 链接：https://openai.com/index/forward-deployed-engineering-means
-- 今天新变化：OpenAI 官方动态发布了「What FDE means at OpenAI」。
+### 2. Securing our frontier model training environment
+- 链接：https://openai.com/index/securing-our-frontier-model-training-environment
+- 今天新变化：OpenAI 官方动态发布了「Securing our frontier model training environment」。
 - 对我有啥用：这是一般行业动态，建议按和你项目的相关性决定跟进深度。
 - 要不要试：看情况（按项目相关性决定）
 
@@ -24,15 +24,15 @@
 
 ## GitHub Copilot 更新日志
 
-### 1. GitHub Copilot in Visual Studio — September update
-- 链接：https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2
-- 今天新变化：GitHub Copilot 更新日志发布了「GitHub Copilot in Visual Studio — September update」。
+### 1. Usage metrics API adds usage from tools like OpenCode
+- 链接：https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode
+- 今天新变化：GitHub Copilot 更新日志发布了「Usage metrics API adds usage from tools like OpenCode」。
 - 对我有啥用：和 AI 编码效率直接相关，适合在当前项目小任务先试用。
 - 要不要试：要（先小范围试用，再决定是否纳入日常）
 
-### 2. Custom skills, agents, and MCP servers in usage metrics API
-- 链接：https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api
-- 今天新变化：GitHub Copilot 更新日志发布了「Custom skills, agents, and MCP servers in usage metrics API」。
+### 2. Turn notifications into code with GitHub Copilot in Teams
+- 链接：https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams
+- 今天新变化：GitHub Copilot 更新日志发布了「Turn notifications into code with GitHub Copilot in Teams」。
 - 对我有啥用：和 AI 编码效率直接相关，适合在当前项目小任务先试用。
 - 要不要试：要（先小范围试用，再决定是否纳入日常）
 
@@ -52,44 +52,44 @@
 
 ## Hacker News 最新讨论
 
-### 1. Show HN: Carton – Real Boundaries for Ruby
-- 链接：https://carton.dtcristo.com/
-- 今天新变化：Hacker News 最新讨论发布了「Show HN: Carton – Real Boundaries for Ruby」。
+### 1. Show HN: Pilely – Build and ship web apps within your AI chat
+- 链接：https://pilely.ai/
+- 今天新变化：Hacker News 最新讨论发布了「Show HN: Pilely – Build and ship web apps within your AI chat」。
 - 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
 - 要不要试：看情况（先看热度和复现反馈）
 
-### 2. The Latest Anthropic Claude Models Contain AI Text Watermarks
-- 链接：https://www.oreilly.com/radar/the-latest-anthropic-claude-models-contain-ai-text-watermarks-what-does-this-mean-for-you/
-- 今天新变化：Hacker News 最新讨论发布了「The Latest Anthropic Claude Models Contain AI Text Watermarks」。
+### 2. Advertisers Pull Meta Ads That Had Unwanted AI Glow-Ups
+- 链接：https://www.adweek.com/media/advertisers-pull-meta-ads-that-had-unwanted-ai-glow-ups/
+- 今天新变化：Hacker News 最新讨论发布了「Advertisers Pull Meta Ads That Had Unwanted AI Glow-Ups」。
 - 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
 - 要不要试：看情况（先看热度和复现反馈）
 
 ## LocalLLaMA 最新讨论
 
-### 1. [Paper] Meta Expert: Cross-Layer Expert Sharing for Storage- and Retrieval-Efficient MoE
-- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1xd5s0n/paper_meta_expert_crosslayer_expert_sharing_for/
-- 今天新变化：LocalLLaMA 最新讨论发布了「[Paper] Meta Expert: Cross-Layer Expert Sharing for Storage- and Retrieval-Efficient MoE」。
-- 对我有啥用：偏研究和趋势信息，对日常交付影响较小，但有助于判断中长期方向。
-- 要不要试：看情况（适合周末集中阅读）
-
-### 2. [Paper] PACE: Periodic and Channel-Aligned Encoding of Four-Bit Recurrent States
-- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1xd5hwe/paper_pace_periodic_and_channelaligned_encoding/
-- 今天新变化：LocalLLaMA 最新讨论发布了「[Paper] PACE: Periodic and Channel-Aligned Encoding of Four-Bit Recurrent States」。
+### 1. Why do so many agent frameworks insist on letting LLMs handle numeric reasoning? Here is what happened when we tested 8B vs 14B vs 32B models on quantitative logic
+- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1xe03fw/why_do_so_many_agent_frameworks_insist_on_letting/
+- 今天新变化：LocalLLaMA 最新讨论发布了「Why do so many agent frameworks insist on letting LLMs handle numeric reasoning? Here is what happened when we tested 8B vs 14B vs 32B models on quantitative logic」。
 - 对我有啥用：和 AI 编码效率直接相关，适合在当前项目小任务先试用。
+- 要不要试：要（先小范围试用，再决定是否纳入日常）
+
+### 2. For coding harnesses like pi and opencode, do you update to the newest version all the time? Those who do, do your results improve or get worse?
+- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1xdy3sf/for_coding_harnesses_like_pi_and_opencode_do_you/
+- 今天新变化：LocalLLaMA 最新讨论发布了「For coding harnesses like pi and opencode, do you update to the newest version all the time? Those who do, do your results improve or get worse?」。
+- 对我有啥用：属于可落地的编码能力更新，可能直接提升写码、改码和排查效率。
 - 要不要试：要（先小范围试用，再决定是否纳入日常）
 
 ## Hugging Face 博客
 
-### 1. Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox
-- 链接：https://huggingface.co/blog/microsoft/thinkingbox-training
-- 今天新变化：Hugging Face 博客发布了「Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox」。
-- 对我有啥用：和 AI 编码效率直接相关，适合在当前项目小任务先试用。
-- 要不要试：要（先小范围试用，再决定是否纳入日常）
+### 1. LitPivot: Developing research ideas through dynamic contextualization within the literature landscape
+- 链接：https://huggingface.co/blog/allenai/litpivot
+- 今天新变化：Hugging Face 博客发布了「LitPivot: Developing research ideas through dynamic contextualization within the literature landscape」。
+- 对我有啥用：偏研究和趋势信息，对日常交付影响较小，但有助于判断中长期方向。
+- 要不要试：看情况（适合周末集中阅读）
 
-### 2. OlmoEarth v1.3: State-of-the-art embeddings for the whole planet
-- 链接：https://huggingface.co/blog/allenai/olmoearth-v1-3
-- 今天新变化：Hugging Face 博客发布了「OlmoEarth v1.3: State-of-the-art embeddings for the whole planet」。
+### 2. Does Your Model Run on AWS Trainium? Look It Up
+- 链接：https://huggingface.co/blog/torch-neuronx-model-support
+- 今天新变化：Hugging Face 博客发布了「Does Your Model Run on AWS Trainium? Look It Up」。
 - 对我有啥用：这是一般行业动态，建议按和你项目的相关性决定跟进深度。
 - 要不要试：看情况（按项目相关性决定）
 
-> generated_at_utc: 2026-10-23T05:53:57.635607Z
+> generated_at_utc: 2026-10-24T05:38:03.662821Z
