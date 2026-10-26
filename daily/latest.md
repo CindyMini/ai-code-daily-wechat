@@ -1,4 +1,4 @@
-# AI Code 每日快报 2026-10-25
+# AI Code 每日快报 2026-10-26
 
 说明：每条包含新闻标题、链接和中文解读。
 
@@ -52,29 +52,29 @@
 
 ## Hacker News 最新讨论
 
-### 1. Commission on Federal Paperwork: Drawings by Carol
-- 链接：https://nickseaver.net/paperwork/
-- 今天新变化：Hacker News 最新讨论发布了「Commission on Federal Paperwork: Drawings by Carol」。
-- 对我有啥用：偏研究和趋势信息，对日常交付影响较小，但有助于判断中长期方向。
-- 要不要试：看情况（适合周末集中阅读）
+### 1. Desk - Munder Difflin, but bare-bones
+- 链接：https://github.com/burvy/desk/releases/tag/Release
+- 今天新变化：Hacker News 最新讨论发布了「Desk - Munder Difflin, but bare-bones」。
+- 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
+- 要不要试：看情况（先看热度和复现反馈）
 
-### 2. Denmark abandons plans to ditch Microsoft Office after technical problems
-- 链接：https://www.neowin.net/news/denmark-has-abandoned-plans-to-ditch-microsoft-office-after-technical-problems/
-- 今天新变化：Hacker News 最新讨论发布了「Denmark abandons plans to ditch Microsoft Office after technical problems」。
+### 2. Og.video – generate og:video tags that make iMessage previews fun [free/OSS]
+- 链接：https://og.video/
+- 今天新变化：Hacker News 最新讨论发布了「Og.video – generate og:video tags that make iMessage previews fun [free/OSS]」。
 - 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
 - 要不要试：看情况（先看热度和复现反馈）
 
 ## LocalLLaMA 最新讨论
 
-### 1. [Benchmark] Strata/Basalt runs Qwen3.8 Flash Next IQ3_S with 16GB VRAM and 55GB RAM with up to 250 tok/s generation and 5,600 tok/s prompt processing (5080, Concurrency 1)
-- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1xesda1/benchmark_stratabasalt_runs_qwen38_flash_next_iq3/
-- 今天新变化：LocalLLaMA 最新讨论发布了「[Benchmark] Strata/Basalt runs Qwen3.8 Flash Next IQ3_S with 16GB VRAM and 55GB RAM with up to 250 tok/s generation and 5,600 tok/s prompt processing (5080, Concurrency 1)」。
-- 对我有啥用：偏研究和趋势信息，对日常交付影响较小，但有助于判断中长期方向。
-- 要不要试：看情况（适合周末集中阅读）
+### 1. Can I run qwen3.8-flash-next on 24gb vram and 48 ram?
+- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1xfm5yy/can_i_run_qwen38flashnext_on_24gb_vram_and_48_ram/
+- 今天新变化：LocalLLaMA 最新讨论发布了「Can I run qwen3.8-flash-next on 24gb vram and 48 ram?」。
+- 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
+- 要不要试：看情况（先看热度和复现反馈）
 
-### 2. Too good to be true? ISTA's GSQ-RCO 2-bit DeepSeek-V4.1-Flash scoring the same as the base model
-- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1xes5x0/too_good_to_be_true_istas_gsqrco_2bit/
-- 今天新变化：LocalLLaMA 最新讨论发布了「Too good to be true? ISTA's GSQ-RCO 2-bit DeepSeek-V4.1-Flash scoring the same as the base model」。
+### 2. Tuned Qwen3.8-Flash-Next-W4A16-AutoRound-hybrid for RTX Spark N1X
+- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1xfm0jh/tuned_qwen38flashnextw4a16autoroundhybrid_for_rtx/
+- 今天新变化：LocalLLaMA 最新讨论发布了「Tuned Qwen3.8-Flash-Next-W4A16-AutoRound-hybrid for RTX Spark N1X」。
 - 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
 - 要不要试：看情况（先看热度和复现反馈）
 
@@ -92,4 +92,4 @@
 - 对我有啥用：这是一般行业动态，建议按和你项目的相关性决定跟进深度。
 - 要不要试：看情况（按项目相关性决定）
 
-> generated_at_utc: 2026-10-25T05:52:53.492394Z
+> generated_at_utc: 2026-10-26T05:57:42.162730Z
