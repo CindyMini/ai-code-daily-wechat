@@ -1,18 +1,18 @@
-# AI Code 每日快报 2026-10-26
+# AI Code 每日快报 2026-10-27
 
 说明：每条包含新闻标题、链接和中文解读。
 
 ## OpenAI 官方动态
 
-### 1. Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)
-- 链接：https://openai.com/index/scaling-storage-one-billion-users-part-two
-- 今天新变化：OpenAI 官方动态发布了「Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)」。
-- 对我有啥用：这是一般行业动态，建议按和你项目的相关性决定跟进深度。
-- 要不要试：看情况（按项目相关性决定）
+### 1. Greptile takes bug detection beyond code review with GPT-6 Astra
+- 链接：https://openai.com/index/greptile-code-review-codex-astra
+- 今天新变化：OpenAI 官方动态发布了「Greptile takes bug detection beyond code review with GPT-6 Astra」。
+- 对我有啥用：和 AI 编码效率直接相关，适合在当前项目小任务先试用。
+- 要不要试：要（先小范围试用，再决定是否纳入日常）
 
-### 2. Securing our frontier model training environment
-- 链接：https://openai.com/index/securing-our-frontier-model-training-environment
-- 今天新变化：OpenAI 官方动态发布了「Securing our frontier model training environment」。
+### 2. Working with academic communities to build scientific understanding
+- 链接：https://openai.com/index/building-scientific-understanding-with-academic-communities
+- 今天新变化：OpenAI 官方动态发布了「Working with academic communities to build scientific understanding」。
 - 对我有啥用：这是一般行业动态，建议按和你项目的相关性决定跟进深度。
 - 要不要试：看情况（按项目相关性决定）
 
@@ -24,57 +24,57 @@
 
 ## GitHub Copilot 更新日志
 
-### 1. Usage metrics API adds usage from tools like OpenCode
-- 链接：https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode
-- 今天新变化：GitHub Copilot 更新日志发布了「Usage metrics API adds usage from tools like OpenCode」。
-- 对我有啥用：和 AI 编码效率直接相关，适合在当前项目小任务先试用。
+### 1. GitHub Copilot assisted permissions generally available
+- 链接：https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available
+- 今天新变化：GitHub Copilot 更新日志发布了「GitHub Copilot assisted permissions generally available」。
+- 对我有啥用：属于可落地的编码能力更新，可能直接提升写码、改码和排查效率。
 - 要不要试：要（先小范围试用，再决定是否纳入日常）
 
-### 2. Turn notifications into code with GitHub Copilot in Teams
-- 链接：https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams
-- 今天新变化：GitHub Copilot 更新日志发布了「Turn notifications into code with GitHub Copilot in Teams」。
+### 2. GPT-6.1 Terra in GitHub Copilot
+- 链接：https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot
+- 今天新变化：GitHub Copilot 更新日志发布了「GPT-6.1 Terra in GitHub Copilot」。
 - 对我有啥用：和 AI 编码效率直接相关，适合在当前项目小任务先试用。
 - 要不要试：要（先小范围试用，再决定是否纳入日常）
 
 ## Cursor 更新日志
 
-### 1. Cloud Agent Canvases and Environment Improvements
+### 1. Agent SDK
+- 链接：https://cursor.com/changelog/agent-sdk
+- 今天新变化：Cursor 更新日志发布了「Agent SDK」。
+- 对我有啥用：和 AI 编码效率直接相关，适合在当前项目小任务先试用。
+- 要不要试：要（先小范围试用，再决定是否纳入日常）
+
+### 2. Cloud Agent Canvases and Environment Improvements
 - 链接：https://cursor.com/changelog/cloud-agent-canvases-and-environments
 - 今天新变化：Cursor 更新日志发布了「Cloud Agent Canvases and Environment Improvements」。
 - 对我有啥用：和 AI 编码效率直接相关，适合在当前项目小任务先试用。
 - 要不要试：要（先小范围试用，再决定是否纳入日常）
 
-### 2. Origin App Marketplace
-- 链接：https://cursor.com/changelog/origin-app-marketplace
-- 今天新变化：Cursor 更新日志发布了「Origin App Marketplace」。
-- 对我有啥用：这是一般行业动态，建议按和你项目的相关性决定跟进深度。
-- 要不要试：看情况（按项目相关性决定）
-
 ## Hacker News 最新讨论
 
-### 1. Desk - Munder Difflin, but bare-bones
-- 链接：https://github.com/burvy/desk/releases/tag/Release
-- 今天新变化：Hacker News 最新讨论发布了「Desk - Munder Difflin, but bare-bones」。
+### 1. Writing about pratt parsing so I remember it
+- 链接：https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html
+- 今天新变化：Hacker News 最新讨论发布了「Writing about pratt parsing so I remember it」。
 - 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
 - 要不要试：看情况（先看热度和复现反馈）
 
-### 2. Og.video – generate og:video tags that make iMessage previews fun [free/OSS]
-- 链接：https://og.video/
-- 今天新变化：Hacker News 最新讨论发布了「Og.video – generate og:video tags that make iMessage previews fun [free/OSS]」。
+### 2. The Autonomous Lifecycle Protocol
+- 链接：https://autonomous-lifecycle-protocol-alp.github.io/Autonomous-Lifecycle-Protocol-ALP/
+- 今天新变化：Hacker News 最新讨论发布了「The Autonomous Lifecycle Protocol」。
 - 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
 - 要不要试：看情况（先看热度和复现反馈）
 
 ## LocalLLaMA 最新讨论
 
-### 1. Can I run qwen3.8-flash-next on 24gb vram and 48 ram?
-- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1xfm5yy/can_i_run_qwen38flashnext_on_24gb_vram_and_48_ram/
-- 今天新变化：LocalLLaMA 最新讨论发布了「Can I run qwen3.8-flash-next on 24gb vram and 48 ram?」。
+### 1. Do GX10s / DGX Sparks Dream of Throttling? Temps across 6 cooling setups running DeepSeek V4.1-Flash (spoiler: no)
+- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1xgkpph/do_gx10s_dgx_sparks_dream_of_throttling_temps/
+- 今天新变化：LocalLLaMA 最新讨论发布了「Do GX10s / DGX Sparks Dream of Throttling? Temps across 6 cooling setups running DeepSeek V4.1-Flash (spoiler: no)」。
 - 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
 - 要不要试：看情况（先看热度和复现反馈）
 
-### 2. Tuned Qwen3.8-Flash-Next-W4A16-AutoRound-hybrid for RTX Spark N1X
-- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1xfm0jh/tuned_qwen38flashnextw4a16autoroundhybrid_for_rtx/
-- 今天新变化：LocalLLaMA 最新讨论发布了「Tuned Qwen3.8-Flash-Next-W4A16-AutoRound-hybrid for RTX Spark N1X」。
+### 2. I think I need more System RAM
+- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1xgjsno/i_think_i_need_more_system_ram/
+- 今天新变化：LocalLLaMA 最新讨论发布了「I think I need more System RAM」。
 - 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
 - 要不要试：看情况（先看热度和复现反馈）
 
@@ -92,4 +92,4 @@
 - 对我有啥用：这是一般行业动态，建议按和你项目的相关性决定跟进深度。
 - 要不要试：看情况（按项目相关性决定）
 
-> generated_at_utc: 2026-10-26T05:57:42.162730Z
+> generated_at_utc: 2026-10-27T06:08:49.889848Z
