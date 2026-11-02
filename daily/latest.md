@@ -1,4 +1,4 @@
-# AI Code 每日快报 2026-11-01
+# AI Code 每日快报 2026-11-02
 
 说明：每条包含新闻标题、链接和中文解读。
 
@@ -52,31 +52,31 @@
 
 ## Hacker News 最新讨论
 
-### 1. V0.5.0 of PSSA: a non-transformer language model
-- 链接：https://github.com/Sparticle62ops/pssa/releases/tag/v0.5.0
-- 今天新变化：Hacker News 最新讨论发布了「V0.5.0 of PSSA: a non-transformer language model」。
+### 1. The NYT/Siena polls show a blue tsunami
+- 链接：https://www.natesilver.net/p/the-nytsiena-polls-show-a-blue-tsunami
+- 今天新变化：Hacker News 最新讨论发布了「The NYT/Siena polls show a blue tsunami」。
 - 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
 - 要不要试：看情况（先看热度和复现反馈）
 
-### 2. Open data and code to teach LLMs to read DNA
-- 链接：https://github.com/huggingface/carbon
-- 今天新变化：Hacker News 最新讨论发布了「Open data and code to teach LLMs to read DNA」。
-- 对我有啥用：和 AI 编码效率直接相关，适合在当前项目小任务先试用。
-- 要不要试：要（先小范围试用，再决定是否纳入日常）
+### 2. Storm Oil
+- 链接：https://en.wikipedia.org/wiki/Storm_oil
+- 今天新变化：Hacker News 最新讨论发布了「Storm Oil」。
+- 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
+- 要不要试：看情况（先看热度和复现反馈）
 
 ## LocalLLaMA 最新讨论
 
-### 1. Rented some server time and wanted to share some learnings from benching using RAM heavier servers with some decent GPU: AMD EPYC and ROME motherboards really *ARE* worth it: Qwen 3.8 Flash Next Unsloth Q8 at 94 tok/s c=1, 456 tok/s c=8 .
-- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1xkvp10/rented_some_server_time_and_wanted_to_share_some/
-- 今天新变化：LocalLLaMA 最新讨论发布了「Rented some server time and wanted to share some learnings from benching using RAM heavier servers with some decent GPU: AMD EPYC and ROME motherboards really *ARE* worth it: Qwen 3.8 Flash Next Unsloth Q8 at 94 tok/s c=1, 456 tok/s c=8 .」。
+### 1. Guys, what is wrong with holding people like Altman and Dario accountable?
+- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1xlqvci/guys_what_is_wrong_with_holding_people_like/
+- 今天新变化：LocalLLaMA 最新讨论发布了「Guys, what is wrong with holding people like Altman and Dario accountable?」。
 - 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
 - 要不要试：看情况（先看热度和复现反馈）
 
-### 2. Would this be interesting to some here?
-- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1xkv2ga/would_this_be_interesting_to_some_here/
-- 今天新变化：LocalLLaMA 最新讨论发布了「Would this be interesting to some here?」。
-- 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
-- 要不要试：看情况（先看热度和复现反馈）
+### 2. List of tiny-to-medium models for web research/coding agents
+- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1xlpkqv/list_of_tinytomedium_models_for_web/
+- 今天新变化：LocalLLaMA 最新讨论发布了「List of tiny-to-medium models for web research/coding agents」。
+- 对我有啥用：和 AI 编码效率直接相关，适合在当前项目小任务先试用。
+- 要不要试：要（先小范围试用，再决定是否纳入日常）
 
 ## Hugging Face 博客
 
@@ -92,4 +92,4 @@
 - 对我有啥用：这是一般行业动态，建议按和你项目的相关性决定跟进深度。
 - 要不要试：看情况（按项目相关性决定）
 
-> generated_at_utc: 2026-11-01T07:19:38.298828Z
+> generated_at_utc: 2026-11-02T07:32:50.583745Z
