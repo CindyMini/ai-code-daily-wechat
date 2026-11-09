@@ -1,4 +1,4 @@
-# AI Code 每日快报 2026-11-08
+# AI Code 每日快报 2026-11-09
 
 说明：每条包含新闻标题、链接和中文解读。
 
@@ -52,29 +52,29 @@
 
 ## Hacker News 最新讨论
 
-### 1. In Praise of Cash (2017)
-- 链接：https://aeon.co/essays/if-plastic-replaces-cash-much-that-is-good-will-be-lost
-- 今天新变化：Hacker News 最新讨论发布了「In Praise of Cash (2017)」。
+### 1. Stop Measuring Developer Productivity
+- 链接：https://leaddev.com/reporting/stop-measuring-developer-productivity
+- 今天新变化：Hacker News 最新讨论发布了「Stop Measuring Developer Productivity」。
 - 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
 - 要不要试：看情况（先看热度和复现反馈）
 
-### 2. There's No Such Thing as a Stock-Market Bubble
-- 链接：https://www.wsj.com/opinion/theres-no-such-thing-as-a-stock-market-bubble-159ea117
-- 今天新变化：Hacker News 最新讨论发布了「There's No Such Thing as a Stock-Market Bubble」。
-- 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
-- 要不要试：看情况（先看热度和复现反馈）
+### 2. 'A new age of climate extremes': Earth accumulating heat at accelerating rate
+- 链接：https://www.theguardian.com/environment/2026/nov/09/cop31-climate-extremes-earth-global-heating
+- 今天新变化：Hacker News 最新讨论发布了「'A new age of climate extremes': Earth accumulating heat at accelerating rate」。
+- 对我有啥用：属于可落地的编码能力更新，可能直接提升写码、改码和排查效率。
+- 要不要试：要（先小范围试用，再决定是否纳入日常）
 
 ## LocalLLaMA 最新讨论
 
-### 1. OpenClaw Retrospective
-- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1xqs2sh/openclaw_retrospective/
-- 今天新变化：LocalLLaMA 最新讨论发布了「OpenClaw Retrospective」。
+### 1. Same prompt, three hosts, three different results on V4.1-Flash. I think I finally know why.
+- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1xrl6fs/same_prompt_three_hosts_three_different_results/
+- 今天新变化：LocalLLaMA 最新讨论发布了「Same prompt, three hosts, three different results on V4.1-Flash. I think I finally know why.」。
 - 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
 - 要不要试：看情况（先看热度和复现反馈）
 
-### 2. Anybody tried Apex 35B and Axion 35B?
-- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1xqrqn6/anybody_tried_apex_35b_and_axion_35b/
-- 今天新变化：LocalLLaMA 最新讨论发布了「Anybody tried Apex 35B and Axion 35B?」。
+### 2. L11 N8147 is a neuron that will make Qwen-3.5-4B get things confidently wrong while being weirdly snarky... But also makes it write interesting poetry
+- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1xrkomn/l11_n8147_is_a_neuron_that_will_make_qwen354b_get/
+- 今天新变化：LocalLLaMA 最新讨论发布了「L11 N8147 is a neuron that will make Qwen-3.5-4B get things confidently wrong while being weirdly snarky... But also makes it write interesting poetry」。
 - 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
 - 要不要试：看情况（先看热度和复现反馈）
 
@@ -92,4 +92,4 @@
 - 对我有啥用：这是一般行业动态，建议按和你项目的相关性决定跟进深度。
 - 要不要试：看情况（按项目相关性决定）
 
-> generated_at_utc: 2026-11-08T07:08:23.265233Z
+> generated_at_utc: 2026-11-09T07:50:09.854498Z
