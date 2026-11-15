@@ -1,4 +1,4 @@
-# AI Code 每日快报 2026-11-14
+# AI Code 每日快报 2026-11-15
 
 说明：每条包含新闻标题、链接和中文解读。
 
@@ -52,29 +52,29 @@
 
 ## Hacker News 最新讨论
 
-### 1. ForumNOX Hacking Forums
-- 链接：https://forumnox.com/
-- 今天新变化：Hacker News 最新讨论发布了「ForumNOX Hacking Forums」。
+### 1. Reading JSON at 277 GB/s in Python
+- 链接：https://lemire.me/blog/2026/11/14/reading-json-at-277-gb-s-in-python/
+- 今天新变化：Hacker News 最新讨论发布了「Reading JSON at 277 GB/s in Python」。
 - 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
 - 要不要试：看情况（先看热度和复现反馈）
 
-### 2. GNU Maintainer: Slave-Made Code? "YES"
-- 链接：https://www.flyingpenguin.com/gnu-maintainer-slave-made-code-yes/
-- 今天新变化：Hacker News 最新讨论发布了「GNU Maintainer: Slave-Made Code? "YES"」。
-- 对我有啥用：和 AI 编码效率直接相关，适合在当前项目小任务先试用。
-- 要不要试：要（先小范围试用，再决定是否纳入日常）
+### 2. Show HN: IndexFast – see which of your pages search engines know about
+- 链接：https://indexfast.co
+- 今天新变化：Hacker News 最新讨论发布了「Show HN: IndexFast – see which of your pages search engines know about」。
+- 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
+- 要不要试：看情况（先看热度和复现反馈）
 
 ## LocalLLaMA 最新讨论
 
-### 1. KittenML/kitten-tts-2-mini · Hugging Face - Text-to-Speech
-- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1xvw34k/kittenmlkittentts2mini_hugging_face_texttospeech/
-- 今天新变化：LocalLLaMA 最新讨论发布了「KittenML/kitten-tts-2-mini · Hugging Face - Text-to-Speech」。
+### 1. RASA will cause total chaos to open LLMs and beyond
+- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1xwmnkw/rasa_will_cause_total_chaos_to_open_llms_and/
+- 今天新变化：LocalLLaMA 最新讨论发布了「RASA will cause total chaos to open LLMs and beyond」。
 - 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
 - 要不要试：看情况（先看热度和复现反馈）
 
-### 2. I recommend downloading SOTA open source models while you can
-- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1xvuwis/i_recommend_downloading_sota_open_source_models/
-- 今天新变化：LocalLLaMA 最新讨论发布了「I recommend downloading SOTA open source models while you can」。
+### 2. Do we want Huang back?
+- 链接：https://www.reddit.com/r/LocalLLaMA/comments/1xwkknd/do_we_want_huang_back/
+- 今天新变化：LocalLLaMA 最新讨论发布了「Do we want Huang back?」。
 - 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
 - 要不要试：看情况（先看热度和复现反馈）
 
@@ -92,4 +92,4 @@
 - 对我有啥用：这是一般行业动态，建议按和你项目的相关性决定跟进深度。
 - 要不要试：看情况（按项目相关性决定）
 
-> generated_at_utc: 2026-11-14T07:30:37.593756Z
+> generated_at_utc: 2026-11-15T07:43:43.281491Z
