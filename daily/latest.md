@@ -1,20 +1,20 @@
-# AI Code 每日快报 2026-11-19
+# AI Code 每日快报 2026-11-20
 
 说明：每条包含新闻标题、链接和中文解读。
 
 ## OpenAI 官方动态
 
-### 1. The Silent Consensus
-- 链接：https://openai.com/index/the-silent-consensus
-- 今天新变化：OpenAI 官方动态发布了「The Silent Consensus」。
+### 1. How OpenAI’s Performance Factory keeps ChatGPT fast
+- 链接：https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast
+- 今天新变化：OpenAI 官方动态发布了「How OpenAI’s Performance Factory keeps ChatGPT fast」。
 - 对我有啥用：这是一般行业动态，建议按和你项目的相关性决定跟进深度。
 - 要不要试：看情况（按项目相关性决定）
 
-### 2. Research acceleration: The jagged frontier
-- 链接：https://openai.com/index/research-acceleration-jagged-frontier
-- 今天新变化：OpenAI 官方动态发布了「Research acceleration: The jagged frontier」。
-- 对我有啥用：偏研究和趋势信息，对日常交付影响较小，但有助于判断中长期方向。
-- 要不要试：看情况（适合周末集中阅读）
+### 2. Deploying Daybreak Red
+- 链接：https://openai.com/business/learn/deploying-daybreak-red
+- 今天新变化：OpenAI 官方动态发布了「Deploying Daybreak Red」。
+- 对我有啥用：这是一般行业动态，建议按和你项目的相关性决定跟进深度。
+- 要不要试：看情况（按项目相关性决定）
 
 ## OpenAI API 更新日志
 - 暂无可用条目（https://developers.openai.com/changelog/rss.xml）
@@ -52,17 +52,17 @@
 
 ## Hacker News 最新讨论
 
-### 1. Debugging No Hat 2026
-- 链接：https://www.nohat.it/all-editions/2026/recap
-- 今天新变化：Hacker News 最新讨论发布了「Debugging No Hat 2026」。
+### 1. Show HN: Ultra-Low Latency C++23 HFT Engine and Lock-Free Ring Buffers
+- 链接：https://github.com/grfdsasdvef/awesome-hft-cpp23-internals
+- 今天新变化：Hacker News 最新讨论发布了「Show HN: Ultra-Low Latency C++23 HFT Engine and Lock-Free Ring Buffers」。
 - 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
 - 要不要试：看情况（先看热度和复现反馈）
 
-### 2. Nudeps: Bundler-like imports, none of the baggage
-- 链接：https://lea.verou.me/blog/2026/nudeps/
-- 今天新变化：Hacker News 最新讨论发布了「Nudeps: Bundler-like imports, none of the baggage」。
-- 对我有啥用：属于版本能力更新，可作为近期技术选型和升级参考。
-- 要不要试：要（关注是否有可直接用到的能力）
+### 2. The need for at least a third option
+- 链接：https://blog.ovalerio.net/archives/3359
+- 今天新变化：Hacker News 最新讨论发布了「The need for at least a third option」。
+- 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
+- 要不要试：看情况（先看热度和复现反馈）
 
 ## LocalLLaMA 最新讨论
 - 暂无可用条目（https://www.reddit.com/r/LocalLLaMA/new/.rss）
@@ -81,4 +81,4 @@
 - 对我有啥用：这是一般行业动态，建议按和你项目的相关性决定跟进深度。
 - 要不要试：看情况（按项目相关性决定）
 
-> generated_at_utc: 2026-11-19T08:36:01.372015Z
+> generated_at_utc: 2026-11-20T08:19:37.604842Z
