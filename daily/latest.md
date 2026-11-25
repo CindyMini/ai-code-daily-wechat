@@ -1,20 +1,20 @@
-# AI Code 每日快报 2026-11-24
+# AI Code 每日快报 2026-11-25
 
 说明：每条包含新闻标题、链接和中文解读。
 
 ## OpenAI 官方动态
 
-### 1. OpenAI and Cisco introduce Shirudo
-- 链接：https://openai.com/index/introducing-shirudo
-- 今天新变化：OpenAI 官方动态发布了「OpenAI and Cisco introduce Shirudo」。
+### 1. GPT-6 models demonstrate intrinsic protein-design capabilities
+- 链接：https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities
+- 今天新变化：OpenAI 官方动态发布了「GPT-6 models demonstrate intrinsic protein-design capabilities」。
 - 对我有啥用：这是一般行业动态，建议按和你项目的相关性决定跟进深度。
 - 要不要试：看情况（按项目相关性决定）
 
-### 2. Connected intelligence for in-house legal
-- 链接：https://openai.com/business/learn/connected-intelligence-for-in-house-legal
-- 今天新变化：OpenAI 官方动态发布了「Connected intelligence for in-house legal」。
-- 对我有啥用：属于版本能力更新，可作为近期技术选型和升级参考。
-- 要不要试：要（关注是否有可直接用到的能力）
+### 2. Searching for distant planets with Astra
+- 链接：https://openai.com/index/searching-for-distant-planets-with-astra
+- 今天新变化：OpenAI 官方动态发布了「Searching for distant planets with Astra」。
+- 对我有啥用：这是一般行业动态，建议按和你项目的相关性决定跟进深度。
+- 要不要试：看情况（按项目相关性决定）
 
 ## OpenAI API 更新日志
 - 暂无可用条目（https://developers.openai.com/changelog/rss.xml）
@@ -52,15 +52,15 @@
 
 ## Hacker News 最新讨论
 
-### 1. Show HN: Scapy for the Agentic SRE
-- 链接：https://github.com/rixed/robinet/blob/master/docs/crafty.md
-- 今天新变化：Hacker News 最新讨论发布了「Show HN: Scapy for the Agentic SRE」。
-- 对我有啥用：和 AI 编码效率直接相关，适合在当前项目小任务先试用。
-- 要不要试：要（先小范围试用，再决定是否纳入日常）
+### 1. Three LLM inflection points in twelve months
+- 链接：https://simonwillison.net/2026/Nov/24/llm-inflection-points/
+- 今天新变化：Hacker News 最新讨论发布了「Three LLM inflection points in twelve months」。
+- 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
+- 要不要试：看情况（先看热度和复现反馈）
 
-### 2. Show HN: Supacheap.eu – Automated GDPR erasure across 544 data brokers
-- 链接：https://supacheap.eu/en/
-- 今天新变化：Hacker News 最新讨论发布了「Show HN: Supacheap.eu – Automated GDPR erasure across 544 data brokers」。
+### 2. The end of enterprise software – or, a world of custom solutions
+- 链接：https://lernerpython.com/2026/11/24/the-end-of-enterprise-software-or-a-world-of-custom-solutions/
+- 今天新变化：Hacker News 最新讨论发布了「The end of enterprise software – or, a world of custom solutions」。
 - 对我有啥用：这是社区热度信号，能帮助你快速判断哪些新工具值得关注。
 - 要不要试：看情况（先看热度和复现反馈）
 
@@ -69,16 +69,16 @@
 
 ## Hugging Face 博客
 
-### 1. RoboTrack: Point tracking for real-world robotic manipulation
+### 1. Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton
+- 链接：https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance
+- 今天新变化：Hugging Face 博客发布了「Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton」。
+- 对我有啥用：属于版本能力更新，可作为近期技术选型和升级参考。
+- 要不要试：要（关注是否有可直接用到的能力）
+
+### 2. RoboTrack: Point tracking for real-world robotic manipulation
 - 链接：https://huggingface.co/blog/allenai/robotrack
 - 今天新变化：Hugging Face 博客发布了「RoboTrack: Point tracking for real-world robotic manipulation」。
 - 对我有啥用：这是一般行业动态，建议按和你项目的相关性决定跟进深度。
 - 要不要试：看情况（按项目相关性决定）
 
-### 2. How to build and maintain an agentic evaluation
-- 链接：https://huggingface.co/blog/agentic-evals
-- 今天新变化：Hugging Face 博客发布了「How to build and maintain an agentic evaluation」。
-- 对我有啥用：和 AI 编码效率直接相关，适合在当前项目小任务先试用。
-- 要不要试：要（先小范围试用，再决定是否纳入日常）
-
-> generated_at_utc: 2026-11-24T10:48:01.076884Z
+> generated_at_utc: 2026-11-25T09:43:26.790988Z
